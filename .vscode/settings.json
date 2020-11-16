@@ -1,0 +1,4 @@
+{
+    "python.formatting.provider": "black",
+    "python.pythonPath": "/home/aneesh/Documents/work/barix/bin/python"
+}
